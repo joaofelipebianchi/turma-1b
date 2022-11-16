@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
-        </head>
+        <head>
          <meta charset="utf-8"></metacharset>
          <html lang="pt-br"> </html>
          <title>aula html 1b </title>
-         </body>
-
+        </head>
+        <body>
+    
      <p>Acaba de ser realizado o primeiro seminário do Amazonas sobre a nova política federal liderada
          pela SUFRAMA, o Zona Franca Verde Federal. O objetivo desse seminário, fruto da parceria 
          entre a SUFRAMA e a Fundação Amazonas Sustentável, foi amadurecer a estratégia de implementação
@@ -23,4 +24,5 @@
          <li>E-Mail:bianchijoao@escola.pr.gov.br</li>
         
          </ol>
+        </body> 
          </html>
