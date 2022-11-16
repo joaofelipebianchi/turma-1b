@@ -2,12 +2,12 @@
 <html>
         <head>
          <meta charset="utf-8"></metacharset>
-         <html lang="pt-br"> </html>
+         <html lang="pt-br"></html>
          <title>aula html 1b </title>
         </head>
+       
         <body>
-    
-     <p>Acaba de ser realizado o primeiro seminário do Amazonas sobre a nova política federal liderada
+     <p style="text-align:center;"> Acaba de ser realizado o primeiro seminário do Amazonas sobre a nova política federal liderada
          pela SUFRAMA, o Zona Franca Verde Federal. O objetivo desse seminário, fruto da parceria 
          entre a SUFRAMA e a Fundação Amazonas Sustentável, foi amadurecer a estratégia de implementação
         dessa política do Governo Federal no estado do Amazonas.</p>
